@@ -1,9 +1,15 @@
 # DDLC iOS
-DDLC ported to iOS. Check the releases.
-Numbers (eg 1.0) are vanilla DDLC
-Names (eg AMWY) are modded DDLC
+Full list of releases:
+- DDLC (vanilla)
+- Another Moment With You
+- Exit Music Redux
+- Fallen Angel
+- Purist (non-working)
 
-I don't make mods, I just stick it on top of my original port.
-UnRPYC and Ren'py Script Decompiler are used to RE DDLC.
+Upcoming(?):
+- The Yuri Parable
+- Monika Before Story
+- Our Time
+- Salvation
 
-Credit to saber-nyan for the Android port, from which I stole several things.
+Thanks to saber-nyan!
