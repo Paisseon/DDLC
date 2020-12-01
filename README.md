@@ -13,4 +13,4 @@ Upcoming(?):
 - The Yuri Parable
 - Storm
 
-Thanks to saber-nyan!
+Thanks to saber-nyan, everyone who made the mods, Dan Salvato, and you~ ^^
