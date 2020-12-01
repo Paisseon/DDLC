@@ -5,11 +5,12 @@ Full list of releases:
 - Exit Music Redux
 - Fallen Angel
 - Purist (non-working)
+- Monika Before Story
+- Our Time
+- DDLC: the RPG
 
 Upcoming(?):
 - The Yuri Parable
-- Monika Before Story
-- Our Time
-- Salvation
+- Storm
 
 Thanks to saber-nyan!
