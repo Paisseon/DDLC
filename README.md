@@ -1,5 +1,4 @@
-# DDLC iOS
-Full list of releases:
+# Released
 - DDLC (vanilla)
 - Another Moment With You
 - Exit Music Redux
@@ -8,9 +7,8 @@ Full list of releases:
 - Monika Before Story
 - Our Time
 - DDLC: the RPG
-
-Upcoming(?):
 - The Yuri Parable
-- Storm
+- Doki Doki Storm
 
-Thanks to saber-nyan, everyone who made the mods, Dan Salvato, and you~ ^^
+## Upcoming
+- ???
