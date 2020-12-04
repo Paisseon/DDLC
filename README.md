@@ -11,4 +11,7 @@
 - Purist
 
 ## Upcoming
-- ???
+- True World
+- Outcast
+- Salvation
+- Relapse
