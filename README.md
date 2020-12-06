@@ -1,7 +1,7 @@
 # Released
 - DDLC (vanilla)
 - Another Moment With You
-- Exit Music Redux
+- Exit Music: Redux
 - Fallen Angel
 - Monika Before Story
 - Our Time
@@ -9,9 +9,17 @@
 - The Yuri Parable
 - Doki Doki Storm
 - Purist
-
-## Upcoming
 - True World
 - Outcast
 - Salvation
 - Relapse
+
+## Upcoming
+- Secret Pain
+- Poems of Death
+- The Good Ending
+- Magical Literary Heroine Natsuki Saves the Literature Club
+- Return to the Portrait
+- Blue Skies
+- Pink Eyes
+- True Route
