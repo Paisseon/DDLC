@@ -1,3 +1,6 @@
+# DDLC iOS
+The only DDLC port for iOS! Includes mods too
+
 # Released
 - Doki Doki Literature Club
 - Another Moment With You
@@ -14,7 +17,7 @@
 - Salvation
 - Relapse
 
-## Upcoming
+## Upcoming (once I finish playing all the above, and Katawa Shoujo, and rereading Citrus for the hundredth time)
 - The Good Ending
 - Magical Literary Heroine Natsuki Saves the Literature Club
 - Return to the Portrait
